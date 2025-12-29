@@ -1,6 +1,3 @@
-import streamlit as st
-from datetime import datetime
-import random
 
 # --- CONFIGURAZIONE PAGINA ---
 st.set_page_config(page_title="Studio Legale Ruocco", page_icon="⚖️")
